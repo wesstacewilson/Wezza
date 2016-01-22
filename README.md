@@ -1,0 +1,2 @@
+# Wezza
+First repository
